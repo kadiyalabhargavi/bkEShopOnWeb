@@ -9,8 +9,6 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 868422dc-2872-485a-a459-d20a830d6c36
-  CLIENT-ID: 97518fa8-7b29-4f24-84ca-23a0bf5fc244
-  TENANT-ID: 41f88ecb-ca63-404d-97dd-ab0a169fd138
   WEBAPP-NAME: az400-webapp-devopsaz400
 
 
